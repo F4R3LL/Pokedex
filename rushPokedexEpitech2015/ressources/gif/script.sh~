@@ -1,0 +1,23 @@
+#!/bin/bash
+<<<<<<< HEAD
+i=1
+j=0
+while [ $i -le 493 ]
+do
+    while [ $j -le 50 ]
+    do
+	convert -strip ./$i/$i.gif[$j] ./$i/$i.jpg
+	((  ++j ))
+	fi
+	((  ++i ))
+=======
+i=0
+j=3
+md $j
+while [ $i -le 47 ]
+do
+   convert 6.gif[$i] $j/tmp-$i.png 
+   ((  ++i ))
+
+>>>>>>> fa3c28490e6655dff247ee3119edcc84389ef3c1
+done
