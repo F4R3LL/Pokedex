@@ -2,7 +2,7 @@
 
 First C++ Project (2015) (after 2week formation)
 
-Grpahic Lib : SFML 2.2
+Graphic Lib : SFML 2.2
 -------------------------------------------------
  * Install : https://www.sfml-dev.org/download/sfml/2.2/
 
@@ -21,7 +21,7 @@ DEVICES : Keyboard Only
 
 Infos : 
 - Stats
-- Gifs
+- ""Gifs""
 - Sounds
-- Infos, Lore, Capacity, Category.
+- Infos, Lore, Capacity, Category
 - Pokedex - List +700 Pokemon
