@@ -8,11 +8,13 @@ Grpahic Lib : SFML 2.2
 
 BUILD : make re
 
+BINARY : ./Pokedex
+
 DEVICES : Keyboard Only
 
 Infos : 
 - Stats
 - Gifs
 - Sounds
-- Effective Menu
+- Infos, Lore, Capacity, Category.
 - Pokedex - List +700 Pokemon
