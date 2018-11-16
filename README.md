@@ -4,11 +4,18 @@ First C++ Project (2015) (after 2week formation)
 
 Grpahic Lib : SFML 2.2
 -------------------------------------------------
+ * Install : https://www.sfml-dev.org/download/sfml/2.2/
+
+ * Tuto : https://www.sfml-dev.org/tutorials/2.2/
+
+ * Tips : GL HF.
+-------------------------------------------------
+
 
 
 BUILD : make re
 
-BINARY : ./Pokedex
+LAUNCH : ./Pokedex
 
 DEVICES : Keyboard Only
 
