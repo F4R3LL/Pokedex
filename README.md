@@ -1,5 +1,5 @@
 # Pokedex
-
+![](./rushPokedexEpitech2015/rendu/ressources/images/mainmenu.jpg)
 First C++ Project (2015) (after 2week formation)
 
 Graphic Lib : SFML 2.2
