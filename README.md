@@ -8,7 +8,7 @@ Graphic Lib : SFML 2.2
 
  * Tuto : https://www.sfml-dev.org/tutorials/2.2/
 
- * Tips : GL HF ¯\_(ツ)_/¯
+ * Tips : GL HF T_T'
 -------------------------------------------------
 
 LOCATION : "rushPokedexEpitech2015/rendu/"
