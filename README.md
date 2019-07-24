@@ -1,8 +1,8 @@
 # Pokedex
-![](./rushPokedexEpitech2015/rendu/ressources/images/mainmenu.jpg)
 First C++ Project (2015) (after 2week formation)
+![](./rushPokedexEpitech2015/rendu/ressources/images/mainmenu.jpg)
 
-Graphic Lib : SFML 2.2
+# Graphic Lib : SFML 2.2
 -------------------------------------------------
  * Install : https://www.sfml-dev.org/download/sfml/2.2/
  * Tuto : https://www.sfml-dev.org/tutorials/2.2/
