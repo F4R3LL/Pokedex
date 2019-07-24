@@ -11,13 +11,10 @@ First C++ Project (2015) (after 2week formation)
 
 
 
-LOCATION : "rushPokedexEpitech2015/rendu/"
-
-BUILD : make re 
-
-LAUNCH : ./Pokedex
-
-DEVICES : Keyboard Only
+1. LOCATION : "rushPokedexEpitech2015/rendu/"
+2. BUILD : make re 
+3. LAUNCH : ./Pokedex
+4. DEVICES : Keyboard Only
 
 Infos : 
 - Stats
