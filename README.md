@@ -7,8 +7,7 @@ First C++ Project (2015) (after 2week formation)
  * Install : https://www.sfml-dev.org/download/sfml/2.2/
  * Tuto : https://www.sfml-dev.org/tutorials/2.2/
  * Tips : GL HF (ノಠ益ಠ)ノ
- 
- ![](./rushPokedexEpitech2015/rendu/ressources/images/Sprite_6_x_006.png)
+ ![](./rushPokedexEpitech2015/rendu/ressources/sprites/54.png)
 -------------------------------------------------
 
 
@@ -27,3 +26,7 @@ Infos :
 - Sounds
 - Infos, Lore, Capacity, Category
 - Pokedex - List +700 Pokemon
+
+![](./rushPokedexEpitech2015/rendu/ressources/images/Sprite_6_x_006.png)
+# TeamBuilder
+![](./rushPokedexEpitech2015/rendu/ressources/images/teambuilder.jpg)
