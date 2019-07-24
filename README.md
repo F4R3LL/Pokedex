@@ -26,7 +26,7 @@ Infos :
 - Sounds
 - Infos, Lore, Capacity, Category
 - Pokedex - List +700 Pokemon
-
+-------------------------------------------------
 ![](./rushPokedexEpitech2015/rendu/ressources/images/Sprite_6_x_006.png)
 # Team Builder
 ![](./rushPokedexEpitech2015/rendu/ressources/images/teambuilder.jpg)
