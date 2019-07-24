@@ -27,6 +27,7 @@ Infos :
 - Infos, Lore, Capacity, Category
 - Pokedex - List +700 Pokemon
 -------------------------------------------------
-![](./rushPokedexEpitech2015/rendu/ressources/images/Sprite_6_x_006.png)
-# Team Builder
+
+# Team Builder ![](./rushPokedexEpitech2015/rendu/ressources/images/Sprite_6_x_006.png)
+-------------------------------------------------
 ![](./rushPokedexEpitech2015/rendu/ressources/images/teambuilder.jpg)
