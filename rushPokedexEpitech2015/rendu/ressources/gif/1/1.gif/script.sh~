@@ -1,8 +1,0 @@
-#!/bin/bash
-i=1
-j=0
-while [ $i -le 50 ]
-do
-    convert -strip $i.gif[$i] $i.png
-    ((  ++i ))
-done
