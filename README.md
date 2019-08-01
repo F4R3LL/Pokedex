@@ -1,8 +1,8 @@
 # Pokedex
 First C++ Project (2015) (after 2week formation)
-![](./rushPokedexEpitech2015/rendu/ressources/images/mainmenu.jpg)
+![](./rendu/ressources/images/mainmenu.jpg)
 
-# Graphic Lib : SFML 2.2  ![](./rushPokedexEpitech2015/rendu/ressources/sprites/54.png)
+# Graphic Lib : SFML 2.2  ![](./rendu/ressources/sprites/54.png)
 -------------------------------------------------
  * Install : https://www.sfml-dev.org/download/sfml/2.2/
  * Tuto : https://www.sfml-dev.org/tutorials/2.2/
@@ -11,7 +11,7 @@ First C++ Project (2015) (after 2week formation)
 
 
 
-1. LOCATION : "rushPokedexEpitech2015/rendu/"
+1. LOCATION : "./rendu/"
 2. BUILD : make re 
 3. LAUNCH : ./Pokedex
 4. DEVICES : Keyboard Only
@@ -24,6 +24,6 @@ Infos :
 - Pokedex - List +700 Pokemon
 -------------------------------------------------
 
-# Team Builder ![](./rushPokedexEpitech2015/rendu/ressources/images/Sprite_6_x_006.png)
+# Team Builder ![](./rendu/ressources/images/Sprite_6_x_006.png)
 -------------------------------------------------
-![](./rushPokedexEpitech2015/rendu/ressources/images/teambuilder.jpg)
+![](./rendu/ressources/images/teambuilder.jpg)
