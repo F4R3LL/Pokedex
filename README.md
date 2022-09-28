@@ -1,5 +1,5 @@
 # Pokedex
-First C++ Project (2015) (after 2week formation, eyes may burn.)
+First C++ Project  (eyes might burn) after 2week formation (2014)
 
 ![](./rendu/ressources/images/mainmenu.jpg)
 
